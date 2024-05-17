@@ -3,7 +3,7 @@ name: PUSH Dev Workflow
 on:
     push:
         branches:
-        - dev
+        - develop
 
 jobs:
     app-tests:
